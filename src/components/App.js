@@ -1,7 +1,7 @@
 import React from 'react';
 import Select from 'react-select';
 
-import all_spots from './spots.json';
+import all_spots from '../data/spots.json';
 
 const SPOTS = all_spots;
 
