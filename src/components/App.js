@@ -1,5 +1,6 @@
 import React from 'react';
 import Select from 'react-select';
+import Spot from './Spot';
 
 import all_spots from '../data/spots.json';
 
@@ -48,7 +49,6 @@ class App extends React.Component {
           <div className="col">
             <h1 className="h2">Sport Lisboa e Benfica around the World</h1>
             <p className="lead">A community list of restaurants/pubs/bars that broadcast Sport Lisboa e Benfica's matches.</p>
-
             <Select
               options={this.getCountriesOptions()}
               onChange={this.setSelectedCountry}
@@ -56,22 +56,17 @@ class App extends React.Component {
               placeholder="Select a country..."
               styles={customStyles}
             />
-
             { this.state.selected_country && (
               <div className="mt-5 mb-5 row">
                 <div className="col-12 mb-3">
                   <h2 className="h4">Spots in {this.state.selected_country}</h2>
                 </div>
-
                 { this.state.selected_country_spots.map(spot => (
-                  <div className="col-md-6 mt-1" key={spot.name}>
-                    <div className="card">
-                      <div className="card-body">
-                        <h5 className="card-title">{spot.name}</h5>
-                        <h6 className="card-subtitle mb-2 text-muted">{spot.city}</h6>
-                      </div>
-                    </div>
-                  </div>
+                  <Spot
+                    key={spot.name}
+                    name={spot.name}
+                    city={spot.city}
+                  />
                 ))}
               </div>
             )}
