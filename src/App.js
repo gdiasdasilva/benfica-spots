@@ -339,8 +339,8 @@ class App extends React.Component {
                 </div>
 
                 { this.state.selected_country_spots.map(spot => (
-                  <div className="col-md-6 mt-1">
-                    <div className="card" key={spot.name}>
+                  <div className="col-md-6 mt-1" key={spot.name}>
+                    <div className="card">
                       <div className="card-body">
                         <h5 className="card-title">{spot.name}</h5>
                         <h6 className="card-subtitle mb-2 text-muted">{spot.city}</h6>
