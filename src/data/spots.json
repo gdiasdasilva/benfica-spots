@@ -9,11 +9,11 @@
 	}],
 	"Belgium": [{
 			"name": "Café Portugal",
-			"city": "Bruxelas"
+			"city": "Brussels"
 		},
 		{
 			"name": "O Cambalhotas",
-			"city": "Bruxelas"
+			"city": "Brussels"
 		}
 	],
 	"Brazil": [{
@@ -40,7 +40,7 @@
 	],
 	"Czech": [{
 		"name": "Café Oliveira",
-		"city": "Praga"
+		"city": "Prague"
 	}],
 	"France": [{
 		"name": "Casa do Benfica de Paris",
@@ -48,7 +48,7 @@
 	}],
 	"Germany": [{
 			"name": "Café Lisboa",
-			"city": "Berlim"
+			"city": "Berlin"
 		},
 		{
 			"name": "Frango Português",
@@ -60,11 +60,11 @@
 		},
 		{
 			"name": "Gaststätte Benfica",
-			"city": "Hamburgo"
+			"city": "Hamburg"
 		},
 		{
 			"name": "Restaurante Portugal",
-			"city": "Munique"
+			"city": "Munich"
 		},
 		{
 			"name": "Associação Recreativa Portuguesa Sindelfingen",
@@ -73,7 +73,7 @@
 	],
 	"Hungary": [{
 		"name": "John Bull Sport Pub & Restaurant",
-		"city": "Budapeste"
+		"city": "Budapest"
 	}],
 	"Ireland": [{
 			"name": "Murray's Pub",
@@ -103,20 +103,20 @@
 	}],
 	"Netherlands": [{
 			"name": "Old Sailor Pub",
-			"city": "Amesterdão"
+			"city": "Amsterdam"
 		},
 		{
 			"name": "gdr Os Lusitanos",
-			"city": "Amesterdão"
+			"city": "Amsterdam"
 		},
 		{
 			"name": "Satellite Sportscafé",
-			"city": "Amesterdão"
+			"city": "Amsterdam"
 		}
 	],
 	"Poland": [{
 		"name": "Champion's Sports Bar",
-		"city": "Varsóvia"
+		"city": "Warsow"
 	}],
 	"Portugal": [{
 			"name": "CRCA - Centro Recreativo e Cultural de Assentiz",
@@ -124,12 +124,12 @@
 		},
 		{
 			"name": "The George",
-			"city": "Lisboa"
+			"city": "Lisbon"
 		}
 	],
 	"Romania": [{
 		"name": "Mojo Music Club",
-		"city": "Bucareste"
+		"city": "Bucharest"
 	}],
 	"Slovenia": [{
 		"name": "Cutty Sark Pub",
@@ -183,7 +183,7 @@
 		},
 		{
 			"name": "The Tron",
-			"city": "Edimburgo"
+			"city": "Edinburgh"
 		},
 		{
 			"name": "Cafe Porto",
@@ -191,31 +191,31 @@
 		},
 		{
 			"name": "O Moinho",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "Bar & Co",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "O Tino",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "Cafe Tejo",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "Casa do Benfica de Londres",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "Sabor Latino",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "A Toca",
-			"city": "Londres"
+			"city": "London"
 		},
 		{
 			"name": "Walkabout",
@@ -236,11 +236,11 @@
 		},
 		{
 			"name": "Legends",
-			"city": "Nova Iorque"
+			"city": "New York"
 		},
 		{
 			"name": "Hooters",
-			"city": "Nova Iorque"
+			"city": "New York"
 		}
 	]
 }
